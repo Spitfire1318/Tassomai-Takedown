@@ -10,4 +10,4 @@ Usage:
 
    follow the steps in the exe
 
-Or you can download the raw python and just run main.py
+Or you can download the raw python and just run bf.py
