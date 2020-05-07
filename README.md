@@ -9,3 +9,5 @@ Installation:
 Usage:
 
    follow the steps in the exe
+
+Or you can download the raw python and just run main.py
