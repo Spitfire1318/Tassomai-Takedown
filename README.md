@@ -1,6 +1,6 @@
 # TPC
 
-A tassomai password cracker
+Tassomai multi tool software. Perfect for school usage. 
 
 Installation:
 
